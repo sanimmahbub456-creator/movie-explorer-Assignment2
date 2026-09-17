@@ -5,6 +5,7 @@ A responsive Movie Explorer Application built with React and Vite. The applicati
 🌐 Live Project
 Live Demo:
 https://classy-marigold-f263d5.netlify.app/
+
 GitHub Repository:
 https://github.com/sanimmahbub456-creator/movie-explorer-Assignment2
 
